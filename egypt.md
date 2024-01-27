@@ -1,3 +1,7 @@
+layout: page
+title: "Wakacje w Egipcie"
+permalink: /egypt
+
 **Tajemnice i Piękno Egiptu: Odkrywanie Atrakcji Turystycznych Nad Nilem**
 
 Egipt, z bogatą historią sięgającą tysiące lat wstecz, jest krajem, który kusi podróżnych nie tylko swoimi majestatycznymi piramidami, ale również fascynującymi zakamarkami kultury, historii i przyrody. Od nadmorskich kurortów po starożytne zabytki, Egipt oferuje podróżnym niezapomniane wrażenia.
