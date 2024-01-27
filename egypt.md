@@ -1,3 +1,7 @@
+---
+layout: page
+title: Destynacje wakacyjne: Egipt
+---
 
 **Tajemnice i piękno Egiptu. Atrakcje turystyczne nad Nilem.**
 
