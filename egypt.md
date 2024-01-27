@@ -1,12 +1,9 @@
-layout: page
-title: "Wakacje w Egipcie"
-permalink: /egypt
 
-**Tajemnice i Piękno Egiptu: Odkrywanie Atrakcji Turystycznych Nad Nilem**
+**Tajemnice i piękno Egiptu. Atrakcje turystyczne nad Nilem.**
 
 Egipt, z bogatą historią sięgającą tysiące lat wstecz, jest krajem, który kusi podróżnych nie tylko swoimi majestatycznymi piramidami, ale również fascynującymi zakamarkami kultury, historii i przyrody. Od nadmorskich kurortów po starożytne zabytki, Egipt oferuje podróżnym niezapomniane wrażenia.
 
-1. **Piramidy w Gizie: Arcydzieło Inżynieryjne i Historii**
+1. **Piramidy w Gizie: Arcydzieło Inżynieryjne**
 
    Piramidy w Gizie to nie tylko zwykłe struktury; są one monumentalnym świadectwem starożytnych umiejętności inżynieryjnych i głęboko zakorzenionej historii Egiptu. Piramida Cheopsa, największa z nich wszystkich, budowana była przez ponad 20 lat i jest jednym z Siedmiu Cudów Świata. Tajemnicze korytarze i komnaty grobowe wciąż pozostawiają naukowców z pytaniem, jak starożytni Egipcjanie osiągnęli tak precyzyjne wykonanie.
 
